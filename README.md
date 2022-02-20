@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JustVorster
-- 👀 I’m interested in Web Development, Game Creation.
-- 🌱 I’m currently learning Web Development in my first proper course.
-- 💞️ I’m not looking to collaborate on anything just yet as I am still learning and growing.
+- 👀 I’m interested in Web and App Development.
+- 🌱 I’m currently on my way to becoming a Front-End Developer.
+- 💞️ If you have any notes or suggestions please reach out!
 
 
 <!---
