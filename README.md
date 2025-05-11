@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JustVorster
-- 👀 I’m interested in Web and App Development.
-- 🌱 I’m currently on my way to becoming a Front-End Developer.
+- 🌱 I’m currently a Fullstack Developer who prefers Backend.
 - 💞️ If you have any notes or suggestions please reach out!
 
 
